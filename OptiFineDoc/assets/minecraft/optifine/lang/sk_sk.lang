@@ -9,7 +9,7 @@ of.general.restart=reštart
 of.general.smart=Chytré
 
 # Keys
-of.key.zoom=Zoom
+of.key.zoom=Priblíženie
 
 # Message
 of.message.aa.shaders1=Antialiasing nie je kompatibilný s tieňovačmi (Shaders).
